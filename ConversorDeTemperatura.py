@@ -1,4 +1,4 @@
-#curso "o que é ciência da comutação" USP/Coursera
+#curso "o que é ciência da computação" USP/Coursera
 #segunda Semana - entrada de dados (python)
 
 #inserir dados em fahrenheit
